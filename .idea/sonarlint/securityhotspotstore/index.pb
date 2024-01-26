@@ -9,3 +9,5 @@ D
 Week1/MulString.java,d\2\d2ae7ff6f1fdb057ef3006c3747dd81b28428e3d
 D
 Week1/BiggerAdd.java,f\5\f503d3351a8e9b064b6d4a729aa68729d64555d3
+E
+Week1/PlusString.java,f\4\f40a1e08828b44a6fbf9ecad23d520c7da8d106c
